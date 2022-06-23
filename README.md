@@ -1,0 +1,1 @@
+# Animations using Manim for a Physics project
